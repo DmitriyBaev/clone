@@ -18,6 +18,6 @@
 	},
 	"homepage": "https://github.com/DmitriyBaev/clone#readme",
 	"dependencies": {
-		"@dmitriybaev/ajs": "^2.0.0"
+		"@dmitriybaev/ajs": "^1.0.0"
 	}
 }
